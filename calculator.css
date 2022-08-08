@@ -3,6 +3,8 @@
 
 
 
+
+
 .btn-primary {
   background-color: #214e8f;
   color: white;
@@ -10,6 +12,7 @@
 .calculator-btn {
   max-width: 300px;
   align-content: center;
+
 
 
 
@@ -33,6 +36,7 @@ footer {
 .header-logo {
   width: 100px;
   height: auto;
+
 
 
 
